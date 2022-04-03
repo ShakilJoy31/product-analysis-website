@@ -21,7 +21,7 @@ const Home = () => {
                         <h1>Our New Product</h1>
                         <h1><span className='your-choose'>Your next Choose</span></h1>
                         <p>Our upcoming new produst with reasonable price. <br /> Our recomendation is to buy this and have fun with your family and friends. </p>
-                        <button>Live Demo</button>
+                        <button className='seeAll'>Live Demo</button>
                     </div>
                     <div>
                         <img src="https://khaledrentacar.com/wp-content/uploads/2019/08/Sedan.jpg" alt="" />
