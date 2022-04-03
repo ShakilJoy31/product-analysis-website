@@ -1,0 +1,13 @@
+.people-image img{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+.People-info{
+    margin: 15px;
+}
+.single-people{
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 9px;
+}

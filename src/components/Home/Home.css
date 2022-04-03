@@ -16,3 +16,8 @@
 .your-choose{
     color: goldenrod
 }
+
+.review-people{
+    display: flex;
+    justify-content: center;
+}
