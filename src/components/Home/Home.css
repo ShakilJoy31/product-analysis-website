@@ -1,0 +1,18 @@
+.product{
+    display: flex;
+    align-items: center;
+}
+.name-and-pic{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.new-product{
+    margin-right: 30px;
+}
+.new-product h1{
+    font-size: 47px;
+}
+.your-choose{
+    color: goldenrod
+}
