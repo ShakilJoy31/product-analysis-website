@@ -21,3 +21,14 @@
     display: flex;
     justify-content: center;
 }
+.seeAll{
+    background-color: black;
+    color: aqua; 
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.seeAll-button{
+    margin-bottom: 20px;
+}

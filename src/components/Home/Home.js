@@ -2,10 +2,17 @@ import React from 'react';
 import './Home.css';
 import CustomHook from '../CustomHook';
 import ReviewPeople from '../ReviewPeople/ReviewPeople';
+import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
     const [people, setPeople] = CustomHook([]);
     const threePeople = people.slice(0, 3);
+
+    const navigate = useNavigate(); 
+    const handleSeeAllButton = () =>{
+        navigate('/review'); 
+    }
+
     return (
         <div>
             <div className='name-and-pic'>
@@ -32,8 +39,8 @@ const Home = () => {
                     threePeople.map(people => <ReviewPeople people={people}></ReviewPeople>)
                 }
             </div>
-            <div>
-                <button>See All Review</button>
+            <div className='seeAll-button'>
+                <button onClick={handleSeeAllButton} className='seeAll'>See All Review</button>
             </div>
         </div>
     );

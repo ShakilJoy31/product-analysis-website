@@ -6,7 +6,8 @@
         "address": {
           "city": "Khulna"
         },
-        "phone": "1-770-736-8031 x56442"
+        "phone": "1-770-736-8031 x56442",
+        "ratings": "10" 
     },  
     {
         "id": 2,
@@ -15,7 +16,9 @@
         "address": {
           "city": "Khulna"
         },
-        "phone": "1-770-736-8031 x56442"
+        "phone": "1-770-736-8031 x56442", 
+        "ratings": "9" 
+        
     }, 
     {
         "id": 3,
@@ -24,7 +27,8 @@
         "address": {
           "city": "Khulna"
         },
-        "phone": "1-770-736-8031 x56442"
+        "phone": "1-770-736-8031 x56442",
+        "ratings": "8" 
     },
 
     {
@@ -34,8 +38,11 @@
       "address": {
         "city": "Khulna"
       },
-      "phone": "1-770-736-8031 x56442"
+      "phone": "1-770-736-8031 x56442", 
+      "ratings": "9.9" 
     }, 
+
+
     {
       "id": 5,
       "name": "Sadia Afrin",
@@ -43,7 +50,8 @@
       "address": {
         "city": "Khulna"
       },
-      "phone": "1-770-736-8031 x56442"
+      "phone": "1-770-736-8031 x56442", 
+      "ratings": "8.5" 
     }, 
     {
       "id": 6,
@@ -52,7 +60,8 @@
       "address": {
         "city": "Khulna"
       },
-      "phone": "1-770-736-8031 x56442"
+      "phone": "1-770-736-8031 x56442", 
+      "ratings": "10" 
     }, 
     {
       "id": 7,
@@ -61,7 +70,8 @@
       "address": {
         "city": "Khulna"
       },
-      "phone": "1-770-736-8031 x56442"
+      "phone": "1-770-736-8031 x56442", 
+      "ratings": "9.5" 
     }, 
     {
         "id": 8,
@@ -70,7 +80,8 @@
         "address": {
           "city": "Khulna"
         },
-        "phone": "1-770-736-8031 x56442"
+        "phone": "1-770-736-8031 x56442", 
+        "ratings": "8" 
     }, 
     {
         "id": 9,
@@ -79,7 +90,8 @@
         "address": {
           "city": "Khulna"
         },
-        "phone": "019*******"
+        "phone": "019*******", 
+        "ratings": "7" 
     }
   ]
 
