@@ -1,0 +1,12 @@
+.question-answer{
+    display: flex;
+    justify-content: center;
+}
+.answer{
+    width: 100%;
+    border: 2px solid saddlebrown;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px; 
+}
+    

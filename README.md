@@ -1,4 +1,21 @@
+
+
+
 # Getting Started with Create React App
+
+The name of my project is: Luxury Car. 
+
+Live site: 
+
+Things I have done in my Project: 
+
+--> Home component is created where Our new product is published. 
+
+--> Showed Customer's Review about that product. 
+
+--> Showed all the Customer who reviewed. 
+
+--> Created a DashBoard component to show the Chart with Line, Barchar and so on. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
