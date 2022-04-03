@@ -1,0 +1,9 @@
+.header-element{
+    padding: 30px; 
+}
+.header-element a{
+    text-decoration: none;
+    color: coral;
+    margin: 45px;
+    font-size: 20px;
+}
