@@ -2,7 +2,7 @@ import React from 'react';
 import './ReviewPeople.css';
 
 const ReviewPeople = (props) => {
-    const { name, img, address, phone, ratings } = props.people;
+    const { name, img, address, phone, ratings, review } = props.people;
     return (
         <div>
             <div className='People-info'>
@@ -10,10 +10,11 @@ const ReviewPeople = (props) => {
                     <div className='people-image'>
                         <img src={img} alt="" />
                     </div>
-                    <h1>Name: {name}</h1>
-                    <p>Address: {address?.city}</p>
-                    <p>Phone: {phone}</p>
-                    <p>Ratings: {ratings} Out of 10</p>
+                    <h1><span className='for-color'>Name:</span> {name}</h1>
+                    <p><span className='for-color'>Address: </span> {address?.city}</p>
+                    <p><span className='for-color'>Phone</span> {phone}</p>
+                    <p><span className='for-color'>Comment: </span> {review}</p>
+                    <p><span className='for-color'>Rating: </span> {ratings} Out of 10</p>
                 </div>
             </div>
         </div>

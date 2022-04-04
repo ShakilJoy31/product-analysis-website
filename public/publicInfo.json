@@ -7,28 +7,31 @@
           "city": "Khulna"
         },
         "phone": "1-770-736-8031 x56442",
-        "ratings": "10" 
+        "ratings": "10", 
+        "review": "Awesome Car." 
     },  
     {
         "id": 2,
         "name": "Sumaiya Haque",
         "img": "https://iso.500px.com/wp-content/uploads/2015/05/inna_cover.jpeg",
         "address": {
-          "city": "Khulna"
+          "city": "Barishal"
         },
         "phone": "1-770-736-8031 x56442", 
-        "ratings": "9" 
+        "ratings": "9" , 
+        "review": "One of the fastest car have I Ever seen." 
         
     }, 
     {
         "id": 3,
-        "name": "Tushar Islam",
-        "img": "https://i.pinimg.com/736x/0b/39/16/0b3916c82c77b7e6530b1988ecdf4667--rice-old-mans.jpg",
+        "name": "Sneha shekh",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F12%2F27%2Fbetty-white.jpg&q=60",
         "address": {
-          "city": "Khulna"
+          "city": "Pabna"
         },
         "phone": "1-770-736-8031 x56442",
-        "ratings": "8" 
+        "ratings": "8", 
+        "review": "Breaking System is Awesome."
     },
 
     {
@@ -36,10 +39,11 @@
       "name": "Maliha Khatun",
       "img": "https://cdn.pixabay.com/photo/2018/01/15/07/52/woman-3083390__340.jpg",
       "address": {
-        "city": "Khulna"
+        "city": "Naogaon"
       },
       "phone": "1-770-736-8031 x56442", 
-      "ratings": "9.9" 
+      "ratings": "9.9", 
+      "review": "Oh My God, Its color! More than Awesome." 
     }, 
 
 
@@ -51,47 +55,55 @@
         "city": "Khulna"
       },
       "phone": "1-770-736-8031 x56442", 
-      "ratings": "8.5" 
+      "ratings": "8.5",  
+      "review": "Nice to have this car. " 
     }, 
     {
       "id": 6,
       "name": "Abdul Baten",
       "img": "https://media.istockphoto.com/photos/living-that-urban-life-picture-id1165314750?k=20&m=1165314750&s=612x612&w=0&h=QcN0aTHS8IpSbNEnSU9Vno8vUjCEFQs4gbZ72dG6yvM=",
       "address": {
-        "city": "Khulna"
+        "city": "Gaibandha"
       },
       "phone": "1-770-736-8031 x56442", 
-      "ratings": "10" 
+      "ratings": "10",  
+      "review": "I think I waste my money to buy this car." 
     }, 
+
     {
       "id": 7,
       "name": "Rokster Kuddus",
       "img": "https://media.istockphoto.com/photos/portrait-of-handsome-young-african-man-smiling-picture-id805011890?k=20&m=805011890&s=170667a&w=0&h=ZDfr4DMVPXTqLlcEfIaWK94JMFAQKnZC8FpmKo8GMd0=",
       "address": {
-        "city": "Khulna"
+        "city": "Dhaka"
       },
       "phone": "1-770-736-8031 x56442", 
-      "ratings": "9.5" 
+      "ratings": "9.5", 
+      "review": "Good to Have this car." 
     }, 
     {
         "id": 8,
         "name": "Kuddus Mia",
         "img": "https://media.istockphoto.com/photos/happy-smiling-man-looking-away-picture-id1158245623?k=20&m=1158245623&s=612x612&w=0&h=rGmn02kNdoQySPEoQmbbDBxOayL4sdW3QWqP9rjgxCg=",
         "address": {
-          "city": "Khulna"
+          "city": "Noyakhali"
         },
         "phone": "1-770-736-8031 x56442", 
-        "ratings": "8" 
+        "ratings": "8",
+        "review": "Great car. " 
     }, 
+
+
     {
         "id": 9,
         "name": "Abdul Jolil",
         "img": "https://media.istockphoto.com/photos/portrait-of-handsome-latino-african-man-picture-id1007763808?k=20&m=1007763808&s=612x612&w=0&h=q4qlV-99EK1VHePL1-Xon4gpdpK7kz3631XK4Hgr1ls=",
         "address": {
-          "city": "Khulna"
+          "city": "Kumilla"
         },
-        "phone": "019*******", 
-        "ratings": "7" 
+        "phone": "1-770-736-8031 x56472", 
+        "ratings": "7",
+        "review": "Thanks a lot to make this car. " 
     }
   ]
 

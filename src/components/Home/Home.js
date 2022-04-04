@@ -20,7 +20,7 @@ const Home = () => {
                     <div className='new-product'>
                         <h1>Our New Product</h1>
                         <h1><span className='your-choose'>Your next Choose</span></h1>
-                        <p>Our upcoming new produst with reasonable price. <br /> Our recomendation is to buy this and have fun with your family and friends. <br /> This car contains a lot of customization and it's very much luxuries. <br /> We're having a lot of demand for that car. I wish you to have a demo ride with this car. <br />Thank you.  </p>
+                        <p>Our upcoming new product with reasonable price. <br /> Our recomendation is to buy this and have fun with your family and friends. <br /> This car contains a lot of customization and it's very much luxuries. <br /> We're having a lot of demand for that car. I wish you to have a demo ride with this car. <br />Thank you.  </p>
                         <button className='seeAll'>Live Demo</button>
                     </div>
                     <div>

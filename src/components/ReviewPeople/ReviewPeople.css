@@ -7,7 +7,10 @@
     margin: 15px;
 }
 .single-people{
-    border: 2px solid red;
+    border: 2px solid slateblue;
     border-radius: 20px;
     padding: 9px;
+}
+.for-color{
+    color: coral;
 }

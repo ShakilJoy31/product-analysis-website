@@ -5,7 +5,7 @@
 
 The name of my project is: Luxury Car. 
 
-Live site: 
+Live site: https://gentle-pavlova-4c38ce.netlify.app/home
 
 Things I have done in my Project: 
 
